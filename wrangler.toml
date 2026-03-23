@@ -1,4 +1,5 @@
-name = "cf-worker-ws-dev-0415" # todo
+# wrangler.toml
+name = 'vless'
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 
